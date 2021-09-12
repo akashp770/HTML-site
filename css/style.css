@@ -1,0 +1,22 @@
+body {
+  background-color: #c0f0f1;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  height: 0px;
+  width: 5%;
+}
+h1 {
+  color: rgb(100, 5, 189);
+  font-style: oblique;
+}
+h3 {
+  color: rgb(100, 5, 189);
+}
+img {
+  width: 200px;
+  border-radius: 100%;
+}
